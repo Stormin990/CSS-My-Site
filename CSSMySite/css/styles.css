@@ -1,0 +1,45 @@
+div {
+    background-color: #6440e7;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+   
+
+} 
+.top-container {
+    background-color: #4cebf1;
+    /* height: 200px;
+    width: 200px; 
+    border: solid 10px;  
+    padding: 20px;  */
+}
+
+
+.middle-container {
+    background-color: #ff043a;
+    height: 200px;
+    width: 200px; 
+    /* border: solid 20px; 
+    margin-left: 260px;    */
+}
+
+.bottom-container {
+    background-color: #fde405;
+    height: 200px;
+    width: 200px;
+    /* border: solid 10px; 
+    margin-left: 500px;
+     */
+}
+
+.pro {
+
+    text-decoration: underline;
+}
+
